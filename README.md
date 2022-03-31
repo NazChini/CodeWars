@@ -18,5 +18,6 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 **Links to katas in this repository:**
 
 **8kyu**
+- https://www.codewars.com/kata/sentence-smash/javascript
 
 **7kyu**
