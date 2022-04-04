@@ -2,11 +2,12 @@
 // Return your answer as a number.
 //Topics trained: FUNDAMENTALS | STRINGS | NUMBERS | ARRAYS
 
+//Solution 01
 function sumMix(x) {
     return x.reduce((sum, ele) => sum + parseInt(ele), 0)
 }
 
-
-// function sumMix(x){
-//     return x.reduce((sum, ele) => sum + +ele, 0)
-// }
+//Solution 02 - slight variation
+function sumMix(x){
+    return x.reduce((sum, ele) => sum + +ele, 0)
+}
