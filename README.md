@@ -7,7 +7,7 @@ from [Codewars](codewars.com) wiki:
 
 My current codewars rank:
 
-<img width="371" alt="Screenshot 2022-03-31 at 12 42 38" src="https://user-images.githubusercontent.com/89296394/161037335-7a6c25b3-6d35-4233-8611-1241974663d7.png">
+<img width="350" alt="Screenshot 2022-06-29 at 20 22 59" src="https://user-images.githubusercontent.com/89296394/176508756-03dbf598-a319-4843-a263-ccdcd8897817.png">
 
 Kyu digit determines kata's difficulty level as well as user's rank on a website.
 - 1kyu, 2kyu - Proficient
