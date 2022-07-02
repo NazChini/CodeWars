@@ -1,5 +1,4 @@
 # CodeWars
-Solutions for codewars problems I am not too ashamed to put on GitHub.
 
 from [Codewars](codewars.com) wiki:
 
