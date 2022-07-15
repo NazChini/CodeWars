@@ -15,4 +15,3 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 - 7kyu, 8kyu - Beginner
 
 
-
