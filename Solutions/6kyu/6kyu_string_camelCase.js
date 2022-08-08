@@ -18,3 +18,12 @@ function toCamelCase(str){
     //4. join without space
   return words.join('')
 }
+
+//Solution 2 
+function toCamelCase(str){
+  //accessing words preceded by - or _
+  const regex = /[-_]\w/gi
+  return str.replace(regex, function(match) {
+                            return match.charAt(1).toUpperCase()
+                            })
+}
